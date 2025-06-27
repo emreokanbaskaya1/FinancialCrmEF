@@ -77,10 +77,3 @@ The project consists of the following main files:
 - Entity Framework
 - Microsoft SQL Server
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/FinancialCRM.git
